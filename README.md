@@ -36,11 +36,14 @@ Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in crea
 ![WhatsApp Image 2022-02-28 at 20 19 49](https://user-images.githubusercontent.com/100580614/156004024-c0c2ddbd-a31b-4726-b1cf-875f7eafd81a.jpeg)
 
 # Schematic of Circuit 
-<br\> Cout 
+
+![IMG_20220228_233130](https://user-images.githubusercontent.com/100580614/156034638-7fab40fc-115b-4c3a-a107-9ae0896332bd.jpg)
+
+ # Cout Schematic 
 
 ![sch_FA_Cout](https://user-images.githubusercontent.com/100580614/156004936-ba2fb129-02d9-4913-b7c1-9a757be9d607.PNG)
 
-<br\> SUM
+# SUM Schematic 
 
 ![SCH_FA_SUM](https://user-images.githubusercontent.com/100580614/156005228-2047bc38-bf53-45e1-95d9-ba1d5650fd28.PNG)
 
@@ -59,6 +62,7 @@ Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in crea
 # AUTHOR
 SURYAPRATAP RATHORE, M.TECH VLSI 
 NATIONAL INSTITUTE OF TECHNOLOGY DELHI, INDIA
+
 # ACKNOWLEDGEMENT 
 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. 
 2. Synopsys, India
@@ -71,7 +75,6 @@ NATIONAL INSTITUTE OF TECHNOLOGY DELHI, INDIA
 # REFERENCES
 
 1. Mehedi Hasan, Md. Jobayer Hossein, Mainul Hossain, Hasan U. Zaman, Senior Member,"Design of a Scalable Low-Power 1-bit Hybrid Full Adder for Fast Computation".
-2. https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Implementation%20of%20Low%20Power%201-    bit%20Hybrid%20Full%20Adder%20using%2022%20nm%20CMOS%20Technology
-3. D. Radhakrishnan, “Low-voltage low-power CMOS full adder,” IEE Proc.-Circuits Devices Syst., vol. 148, no. 1, pp. 19–24, Feb. 2001.
+2. D. Radhakrishnan, “Low-voltage low-power CMOS full adder,” IEE Proc.-Circuits Devices Syst., vol. 148, no. 1, pp. 19–24, Feb. 2001.
 
 
