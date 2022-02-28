@@ -33,5 +33,12 @@ The Synopsys Custom Compiler™ design environment is a modern solution for full
 ![WhatsApp Image 2022-02-28 at 20 19 49](https://user-images.githubusercontent.com/100580614/156004024-c0c2ddbd-a31b-4726-b1cf-875f7eafd81a.jpeg)
 
 # Schematic of Circuit 
+<br\> Cout 
+
+![sch_FA_Cout](https://user-images.githubusercontent.com/100580614/156004936-ba2fb129-02d9-4913-b7c1-9a757be9d607.PNG)
+
+<br\>
+SUM
+![SCH_FA_SUM](https://user-images.githubusercontent.com/100580614/156005228-2047bc38-bf53-45e1-95d9-ba1d5650fd28.PNG)
 
 
