@@ -20,13 +20,13 @@ Adder is a Combinational circuit which perform addition of binary bits. A novel 
 introduced. In this type of hybrid full adder was designed by 28nm technology. Modern image and video processing operations, digital signal processing (DSP) chips, microprocessors and many other applications require large scale of arithmetic operations. A 1-bit Full Adder (FA) is considered as the nucleus of binary addition since it is the 
 fundamental cell for building wide word-length adders.
 # Truth Table of Full Adder
-![Full-Adder-Circuit](https://user-images.githubusercontent.com/100580614/156028686-da58301e-2f79-4a29-bf82-dcbe4f298c4d.png)
 
 ![Full-Adder-truth-table](https://user-images.githubusercontent.com/100580614/156002144-9adc7e2e-4937-4f48-a32a-bb2ab5fef0b0.png)
  
 # Block Diagram of Hybrid based Full Adder
 
 ![full_adder_block](https://user-images.githubusercontent.com/100580614/156003211-d45e051b-9d80-43ab-ace5-d10b4c238113.PNG)
+![Full-Adder-Circuit](https://user-images.githubusercontent.com/100580614/156028686-da58301e-2f79-4a29-bf82-dcbe4f298c4d.png)
 
 # Tool Used 
 The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. It delivers industry-leading productivity, performance, and ease-of-use while remaining easy to adopt for users of legacy tools.
