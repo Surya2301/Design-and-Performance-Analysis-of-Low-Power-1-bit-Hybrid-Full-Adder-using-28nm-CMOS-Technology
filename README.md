@@ -13,11 +13,10 @@
 Adders is very important digital element for any arithmetic operation so it plays a vital role in digital and VLSI systems for ALU.
 Now a Day, Technology is moving on lowering the scale of transistors for enforcing any other digital system. <br /> A novel design of a 
 Hybrid Full Adder (FA) using Pass Transistors Logic (PTLs), Transmission Gates (TGs) and Conventional Complementary Metal Oxide Semiconductor (CCMOS) logic is presented.
-The hybrid Full Adder cell with 1-bit is implemented in this structure. The proposed method is investigated using 28nm CMOS Technology on Synopsys.<br />  
+The hybrid Full Adder cell with 1-bit is implemented in this structure. The proposed method is investigated using 28nm CMOS Technology on Synopsys.
 So, the objective of this circuit is to find out the best efficient logic style from CMOS, CPL and TG for 1-bit Full Adder circuit which found to be extremely low for 0.8V supply at 28nm technology.
 ## INTRODUCTION
-Full Adder is a Combinational circuit which perform addition of binary bits. A novel 1-bit hybrid full adder using different types of gates like PTs, TGs, and static CMOS logic was 
-introduced. In this type of hybrid full adder was designed by 28nm technology. Modern image and video processing operations, digital signal processing (DSP) chips, microprocessors and many other applications require large scale of arithmetic operations. A 1-bit Full Adder (FA) is considered as the nucleus of binary addition since it is the 
+Full Adder is a Combinational circuit which perform addition of binary bits. A novel 1-bit hybrid full adder using different types of gates like PTs, TGs, and static CMOS logic was introduced. In this type of hybrid full adder was designed by 28nm technology. Modern image and video processing operations, digital signal processing (DSP) chips, microprocessors and many other applications require large scale of arithmetic operations. A 1-bit Full Adder (FA) is considered as the nucleus of binary addition since it is the 
 fundamental cell for building wide word-length adders.
 - ### Truth Table of Full Adder
 
