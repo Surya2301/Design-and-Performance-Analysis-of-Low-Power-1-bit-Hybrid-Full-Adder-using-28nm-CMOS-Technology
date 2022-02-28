@@ -11,17 +11,17 @@
 9. Referenecs
 ## ABSTRACT
 Adders is very important digital element for any arithmetic operation so it plays a vital role in digital and VLSI systems for ALU.
-Now a Day, Technology is moving towards on lowering the scale of transistors for enforcing any other digital system. A novel design of a 
+Now a Day, Technology is moving on lowering the scale of transistors for enforcing any other digital system. <br /> A novel design of a 
 Hybrid Full Adder (FA) using Pass Transistors Logic (PTLs), Transmission Gates (TGs) and Conventional Complementary Metal Oxide Semiconductor (CCMOS) logic is presented.
-The hybrid Full Adder cell with 1-bit is implemented in this structure. The proposed method is investigated using 22-nm CMOS hybrid full adder.  
-The Average power consumption of 1.1055microwatt with moderately low delay of 7.0415ps was found to be extremely low for 0.8V supply at 28nm technology.
+The hybrid Full Adder cell with 1-bit is implemented in this structure. The proposed method is investigated using 28nm CMOS Technology on Synopsys.<br />  
+So, the objective of this circuit is to find out the best efficient logic style from CMOS, CPL and TG for 1-bit Full Adder circuit which found to be extremely low for 0.8V supply at 28nm technology.
 ## INTRODUCTION
-Adder is a Combinational circuit which perform addition of binary bits. A novel 1-bit hybrid full adder using different types of gates like PTs, TGs, and static CMOS logic was 
+Full Adder is a Combinational circuit which perform addition of binary bits. A novel 1-bit hybrid full adder using different types of gates like PTs, TGs, and static CMOS logic was 
 introduced. In this type of hybrid full adder was designed by 28nm technology. Modern image and video processing operations, digital signal processing (DSP) chips, microprocessors and many other applications require large scale of arithmetic operations. A 1-bit Full Adder (FA) is considered as the nucleus of binary addition since it is the 
 fundamental cell for building wide word-length adders.
 ### Truth Table of Full Adder
 
-![Full-Adder-truth-table](https://user-images.githubusercontent.com/100580614/156002144-9adc7e2e-4937-4f48-a32a-bb2ab5fef0b0.png)
+ ![Full-Adder-truth-table](https://user-images.githubusercontent.com/100580614/156002144-9adc7e2e-4937-4f48-a32a-bb2ab5fef0b0.png)
  
 ### Block Diagram of Hybrid based Full Adder
 
@@ -39,33 +39,34 @@ fundamental cell for building wide word-length adders.
 
 ![IMG_20220228_233130](https://user-images.githubusercontent.com/100580614/156034638-7fab40fc-115b-4c3a-a107-9ae0896332bd.jpg)
 
- - ### Cout Schematic 
+ - ### COUT SCHEMATICS 
 
 ![sch_FA_Cout](https://user-images.githubusercontent.com/100580614/156004936-ba2fb129-02d9-4913-b7c1-9a757be9d607.PNG)
 
--### SUM Schematic 
+- ### SUM SCHEMATICS
 
 ![SCH_FA_SUM](https://user-images.githubusercontent.com/100580614/156005228-2047bc38-bf53-45e1-95d9-ba1d5650fd28.PNG)
 
--### Symbol 
+- ### SYMBOL
 
 ![image](https://user-images.githubusercontent.com/100580614/156029743-a910236b-cf81-4c49-8ba9-e2be7084bb12.png)
 
--### Full Adder Testbench 
+- ### FULL ADDER TESTBENCH 
 
 ![image](https://user-images.githubusercontent.com/100580614/156005665-ff9d4fcb-dcdf-4b3b-a63d-7518053b7b7a.png)
 
-# Simulation Waveform 
+## SIMULATION WAVEFORM
 
-![FA_WF](https://user-images.githubusercontent.com/100580614/156026079-77213b9d-7515-4c77-8586-a87e999ec38a.PNG)
+![FA_waveform](https://user-images.githubusercontent.com/100580614/156049765-2a871629-38a4-401f-81e7-32bf1fa6dfaf.PNG)
 
  ## CONCLUSION
- The proposed adder is suitable for both CMOS and nano technology based VLSI circuits and systems.
+ The proposed Adder is suitable for both CMOS and Nano Technology based VLSI circuits and systems.
  To verifying the result, simulation has been implemented by using Synopsys Custom compiler tool. 
  The performance of this proposed method was implemented for less power consumption circuits which is used in nano technology applications.
 
 ## AUTHOR
-SURYAPRATAP RATHORE, M.TECH VLSI 
+SURYAPRATAP RATHORE <br /> 
+M.TECH VLSI <br /> 
 NATIONAL INSTITUTE OF TECHNOLOGY DELHI, INDIA
 
 ## ACKNOWLEDGEMENT 
@@ -79,7 +80,8 @@ NATIONAL INSTITUTE OF TECHNOLOGY DELHI, INDIA
 
 ## REFERENCES
 
-1. Mehedi Hasan, Md. Jobayer Hossein, Mainul Hossain, Hasan U. Zaman, Senior Member,"Design of a Scalable Low-Power 1-bit Hybrid Full Adder for Fast Computation".
-2. D. Radhakrishnan, “Low-voltage low-power CMOS full adder,” IEE Proc.-Circuits Devices Syst., vol. 148, no. 1, pp. 19–24, Feb. 2001.
+[1]. Mehedi Hasan, Md. Jobayer Hossein, Mainul Hossain, Hasan U. Zaman, Senior Member,"Design of a Scalable Low-Power 1-bit Hybrid Full Adder for Fast Computation".
+[2]. D. Radhakrishnan, “Low-voltage low-power CMOS full adder,” IEE Proc.-Circuits Devices Syst., vol. 148, no. 1, pp. 19–24, Feb. 2001.
+[3]. Jan.Rabey"https://booksonweb.files.wordpress.com/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf".
 
 
