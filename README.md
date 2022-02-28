@@ -19,13 +19,14 @@ So, the objective of this circuit is to find out the best efficient logic style 
 Full Adder is a Combinational circuit which perform addition of binary bits. A novel 1-bit hybrid full adder using different types of gates like PTs, TGs, and static CMOS logic was 
 introduced. In this type of hybrid full adder was designed by 28nm technology. Modern image and video processing operations, digital signal processing (DSP) chips, microprocessors and many other applications require large scale of arithmetic operations. A 1-bit Full Adder (FA) is considered as the nucleus of binary addition since it is the 
 fundamental cell for building wide word-length adders.
-### Truth Table of Full Adder
+- ### Truth Table of Full Adder
 
  ![Full-Adder-truth-table](https://user-images.githubusercontent.com/100580614/156002144-9adc7e2e-4937-4f48-a32a-bb2ab5fef0b0.png)
  
-### Block Diagram of Hybrid based Full Adder
+- ### Block Diagram of Hybrid based Full Adder
 
 ![full_adder_block](https://user-images.githubusercontent.com/100580614/156003211-d45e051b-9d80-43ab-ace5-d10b4c238113.PNG)
+
 ![Full-Adder-Circuit](https://user-images.githubusercontent.com/100580614/156028686-da58301e-2f79-4a29-bf82-dcbe4f298c4d.png)
 
 ## TOOL USED
@@ -80,8 +81,8 @@ NATIONAL INSTITUTE OF TECHNOLOGY DELHI, INDIA
 
 ## REFERENCES
 
-[1]. Mehedi Hasan, Md. Jobayer Hossein, Mainul Hossain, Hasan U. Zaman, Senior Member,"Design of a Scalable Low-Power 1-bit Hybrid Full Adder for Fast Computation".
-[2]. D. Radhakrishnan, “Low-voltage low-power CMOS full adder,” IEE Proc.-Circuits Devices Syst., vol. 148, no. 1, pp. 19–24, Feb. 2001.
+[1]. Mehedi Hasan, Md. Jobayer Hossein, Mainul Hossain, Hasan U. Zaman, Senior Member,"Design of a Scalable Low-Power 1-bit Hybrid Full Adder for Fast Computation". <br />
+[2]. D. Radhakrishnan, “Low-voltage low-power CMOS full adder,” IEE Proc.-Circuits Devices Syst., vol. 148, no. 1, pp. 19–24, Feb. 2001. <br />
 [3]. Jan.Rabey"https://booksonweb.files.wordpress.com/2011/11/digital-integrated-circuits-a-design-perspective-by-jan-m-rabaey.pdf".
 
 
