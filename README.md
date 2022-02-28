@@ -1,5 +1,5 @@
 # Design and Performance Analysis of Low Power 1-bit Hybrid Full-Adder using 28nm CMOS Technology
-# TABLE OF CONTENT
+# **TABLE OF CONTENT**
 1. Abstract
 2. Introduction
 3. Tool Used
