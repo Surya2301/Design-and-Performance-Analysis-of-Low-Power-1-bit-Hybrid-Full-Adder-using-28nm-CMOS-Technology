@@ -56,7 +56,22 @@ Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in crea
 
 ![FA_WF](https://user-images.githubusercontent.com/100580614/156026079-77213b9d-7515-4c77-8586-a87e999ec38a.PNG)
 
+# AUTHOR
+SURYAPRATAP RATHORE, M.TECH VLSI 
+NATIONAL INSTITUTE OF TECHNOLOGY DELHI, INDIA
+# ACKNOWLEDGEMENT 
+1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. 
+2. Synopsys, India
+3. VLSI System Design(VSD) Corporation Private Limited India
+4. Indian Institute of Technology, Hyderabad (IITH)
+5. Cloud Based Analog IC Design Hackathon
+6. Sameer Durgoji, NIT Karnataka
+7. Chinmay panda, IIT Hyderabad
 
+# REFERENCES
 
+1. Mehedi Hasan, Md. Jobayer Hossein, Mainul Hossain, Hasan U. Zaman, Senior Member,"Design of a Scalable Low-Power 1-bit Hybrid Full Adder for Fast Computation".
+2. https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Implementation%20of%20Low%20Power%201-    bit%20Hybrid%20Full%20Adder%20using%2022%20nm%20CMOS%20Technology
+3. D. Radhakrishnan, “Low-voltage low-power CMOS full adder,” IEE Proc.-Circuits Devices Syst., vol. 148, no. 1, pp. 19–24, Feb. 2001.
 
 
