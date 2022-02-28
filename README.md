@@ -46,6 +46,10 @@ Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in crea
 
 # Symbol 
 
+![image](https://user-images.githubusercontent.com/100580614/156029743-a910236b-cf81-4c49-8ba9-e2be7084bb12.png)
+
+# Full Adder Testbench 
+
 ![image](https://user-images.githubusercontent.com/100580614/156005665-ff9d4fcb-dcdf-4b3b-a63d-7518053b7b7a.png)
 
 # Simulation Result 
