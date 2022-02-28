@@ -1,21 +1,21 @@
 # Design and Performance Analysis of Low Power 1-bit Hybrid Full-Adder using 28nm CMOS Technology
-# **TABLE OF CONTENT**
+# TABLE OF CONTENT
 1. Abstract
 2. Introduction
 3. Tool Used
-4. Circuit Design
+4. Schematic of Circuit Design
 5. Simulation Results 
 6. Conclusion
 7. Author
 8. Acknoledgement
 9. Referenecs
-## Abstarct -
+## ABSTRACT
 Adders is very important digital element for any arithmetic operation so it plays a vital role in digital and VLSI systems for ALU.
 Now a Day, Technology is moving towards on lowering the scale of transistors for enforcing any other digital system. A novel design of a 
 Hybrid Full Adder (FA) using Pass Transistors Logic (PTLs), Transmission Gates (TGs) and Conventional Complementary Metal Oxide Semiconductor (CCMOS) logic is presented.
 The hybrid Full Adder cell with 1-bit is implemented in this structure. The proposed method is investigated using 22-nm CMOS hybrid full adder.  
 The Average power consumption of 1.1055microwatt with moderately low delay of 7.0415ps was found to be extremely low for 0.8V supply at 28nm technology.
-## Introduction 
+## INTRODUCTION
 Adder is a Combinational circuit which perform addition of binary bits. A novel 1-bit hybrid full adder using different types of gates like PTs, TGs, and static CMOS logic was 
 introduced. In this type of hybrid full adder was designed by 28nm technology. Modern image and video processing operations, digital signal processing (DSP) chips, microprocessors and many other applications require large scale of arithmetic operations. A 1-bit Full Adder (FA) is considered as the nucleus of binary addition since it is the 
 fundamental cell for building wide word-length adders.
@@ -28,14 +28,14 @@ fundamental cell for building wide word-length adders.
 ![full_adder_block](https://user-images.githubusercontent.com/100580614/156003211-d45e051b-9d80-43ab-ace5-d10b4c238113.PNG)
 ![Full-Adder-Circuit](https://user-images.githubusercontent.com/100580614/156028686-da58301e-2f79-4a29-bf82-dcbe4f298c4d.png)
 
-## Tool Used 
-The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. It delivers industry-leading productivity, performance, and ease-of-use while remaining easy to adopt for users of legacy tools.
-Synopsys Primewave:  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
-Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
+## TOOL USED
+**Synopsys Custom Compiler** The design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom  Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. It delivers industry-leading productivity, performance, and ease-of-use while remaining easy to adopt for users of legacy tools.
+**Synopsys Primewave:**  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
+**Synopsys 28nm PDK:**  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
 
 ![WhatsApp Image 2022-02-28 at 20 19 49](https://user-images.githubusercontent.com/100580614/156004024-c0c2ddbd-a31b-4726-b1cf-875f7eafd81a.jpeg)
 
-## Schematic of Circuit 
+## Schematic of Circuit Design
 
 ![IMG_20220228_233130](https://user-images.githubusercontent.com/100580614/156034638-7fab40fc-115b-4c3a-a107-9ae0896332bd.jpg)
 
@@ -55,9 +55,14 @@ Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in crea
 
 ![image](https://user-images.githubusercontent.com/100580614/156005665-ff9d4fcb-dcdf-4b3b-a63d-7518053b7b7a.png)
 
-## Simulation Result 
+# Simulation Waveform 
 
 ![FA_WF](https://user-images.githubusercontent.com/100580614/156026079-77213b9d-7515-4c77-8586-a87e999ec38a.PNG)
+
+ ## CONCLUSION
+ The proposed adder is suitable for both CMOS and nano technology based VLSI circuits and systems.
+ To verifying the result, simulation has been implemented by using Synopsys Custom compiler tool. 
+ The performance of this proposed method was implemented for less power consumption circuits which is used in nano technology applications.
 
 ## AUTHOR
 SURYAPRATAP RATHORE, M.TECH VLSI 
