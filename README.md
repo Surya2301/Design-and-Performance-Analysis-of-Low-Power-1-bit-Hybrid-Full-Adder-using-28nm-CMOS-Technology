@@ -37,7 +37,7 @@ fundamental cell for building wide word-length adders.
 
 ## SCHEMATICS OF CIRCUIT DESIGN
 
-![IMG_20220228_233130](https://user-images.githubusercontent.com/100580614/156034638-7fab40fc-115b-4c3a-a107-9ae0896332bd.jpg)
+![WhatsApp Image 2022-03-02 at 15 14 15](https://user-images.githubusercontent.com/100580614/156337233-f651a205-00b0-4b80-8261-f9b9f5c476a4.jpeg)
 
  - ### COUT SCHEMATICS 
 
